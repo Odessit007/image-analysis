@@ -1,8 +1,8 @@
-matplotlib==2.1.2
-numpy==1.14.0
-pandas==0.22.0
-pywavelets==0.5.2
-scikit-image==0.13.1
-scipy==1.0.0
-ipywidgets
-opencv-contrib-python
+matplotlib
+numpy
+opencv-python==3.4.2.16
+opencv-contrib-python==3.4.2.16
+PyWavelets
+scikit-image
+scikit-learn
+scipy
